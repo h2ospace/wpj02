@@ -25,6 +25,7 @@ phpmyadmin-ctl install
 ```
 <?php
 $upgrading = time();
+```
 
 # meta_queryを使おう
 
