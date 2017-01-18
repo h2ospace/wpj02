@@ -14,7 +14,7 @@ phpmyadmin-ctl install
 
 ## ログイン情報
 
-|  |  |
+| Key       | Value           |
 |-----------|-----------------|
 | ID        | wpjlivelesson02 |
 | Password  | wpjwpjwpj123    |
